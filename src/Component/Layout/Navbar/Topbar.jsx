@@ -12,6 +12,9 @@ export default function Topbar() {
         <h6>
           <i class="fa-solid fa-envelope"></i>help@support.com{" "}
         </h6>
+        <h6>
+          <i class="fa-solid fa-coret-dwon"></i>English{" "}
+        </h6>
       </div>
     </>
   );

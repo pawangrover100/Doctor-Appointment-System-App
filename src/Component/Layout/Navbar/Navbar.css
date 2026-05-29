@@ -6,7 +6,7 @@
 .topbar-container {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
   background: #008080;
   color: #fff;
