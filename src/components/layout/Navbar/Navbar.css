@@ -1,0 +1,29 @@
+.navbar-container{
+    overflow: hidden;
+    border-bottom: 1px solid #394a8d;
+}
+.topbar-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    font-weight: normal;
+    background-color: #394a8d;
+    font-family: 'Poppins', sans-serif; 
+}
+.navbar{
+    background-color: #ffffff;
+    margin-bottom: 10px;
+}
+.nav-link{
+    font-weight: 600;
+    margin-left: 20px;
+}
+.brand-logo{
+    width: 100%;
+    height: 100%px;
+}
+.brand-logo:hover{
+    opacity: 0.8;
+}
