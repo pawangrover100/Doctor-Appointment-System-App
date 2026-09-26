@@ -1,3 +1,4 @@
+import ContactMessage from "../components/ContactMessage/ContactMessage.jsx";
 import Shortintro from "../components/Shortintro/Shortintro.jsx";
 import Slider from "../components/slider/Slider.jsx";
 import Facility from "../components/Static/Facility/Facility.jsx";
@@ -14,6 +15,8 @@ const Home = () => {
       <Shortintro />
       {/* why choose */}
       <WhyChoose />
+      {/* ContactMessage */}
+      <ContactMessage />
     </>
   );
 };
