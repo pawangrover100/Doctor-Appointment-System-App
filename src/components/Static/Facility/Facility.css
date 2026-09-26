@@ -32,6 +32,6 @@
 
 .facility-container .card:hover {
   cursor: pointer;
-  background-color: rgb(7, 158, 158);
+  background-color: #394a8d;
   color: white;
 }
