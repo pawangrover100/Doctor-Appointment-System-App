@@ -18,7 +18,7 @@ const Slider = () => {
         slidesPerView={1}
       >
         {images.map((d, i) => (
-          <SwiperSlide key="i">
+          <SwiperSlide key={i}>
             <img
               src={d}
               alt={`banner${i}`}

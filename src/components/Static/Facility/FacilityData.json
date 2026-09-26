@@ -1,0 +1,51 @@
+[
+  {
+    "title": "General Care",
+    "icon": "fa-solid fa-hand-holding-heart"
+  },
+  {
+    "title": "Department of ENT",
+    "icon": "fa-solid fa-ear-listen"
+  },
+  {
+    "title": "Department of Cardiology",
+    "icon": "fa-solid fa-heart-pulse"
+  },
+
+  {
+    "title": "Department Of Internal Medicine",
+    "icon": "fa-solid fa-user-doctor"
+  },
+  {
+    "title": "24/7 Emergency Care",
+    "icon": "fa-solid fa-truck-medical"
+  },
+  {
+    "title": "Qualified Doctors",
+    "icon": "fa-solid fa-user-doctor"
+  },
+  {
+    "title": "Modern Laboratory",
+    "icon": "fa-solid fa-flask"
+  },
+  {
+    "title": "Pharmacy Services",
+    "icon": "fa-solid fa-prescription-bottle-medical"
+  },
+  {
+    "title": "Diagnostic Imaging",
+    "icon": "fa-solid fa-x-ray"
+  },
+  {
+    "title": "Ambulance Service",
+    "icon": "fa-solid fa-truck-medical"
+  },
+  {
+    "title": "Patient Rooms",
+    "icon": "fa-solid fa-bed-pulse"
+  },
+  {
+    "title": "Blood Bank",
+    "icon": "fa-solid fa-droplet"
+  }
+]
