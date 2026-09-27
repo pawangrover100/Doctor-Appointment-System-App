@@ -36,6 +36,9 @@ const Navmanu = () => {
           <NavLink className="nav-link" to="/contact">
             Contact
           </NavLink>
+          <NavLink className="nav-link" to="/register">
+            Register
+          </NavLink>
         </li>
        
       </ul>
