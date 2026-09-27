@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "https://thumbs.dreamstime.com/b/businessman-programmer-avatar-profile-userpic-white-background-vector-illustration-66140549.jpg",
+    "title": "AI Based Medical Diagnosis System",
+    "inventor": "Rahul Sharma",
+    "description": "An AI-based system designed to assist doctors in identifying diseases using medical data.",
+    "reviewer": "Dr. Amit Verma",
+    "rating": 4,
+    "comments": "Practical applications."
+  },
+  {
+    "id": 2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs93_FqStEMDy5FyAEgcxglj0LPwXl5H3ISozJ7P9SKw&s=10",
+    "title": "Smart Agriculture Monitoring System",
+    "inventor": "Priya Singh",
+    "description": "A smart monitoring system that uses sensors and IoT technology to monitor soil moisture and crop conditions.",
+    "reviewer": "Neha Gupta",
+    "rating": 5,
+    "comments": "Highly technology."
+  },
+  {
+    "id": 3,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQosM3prtK4UTYRUANfeEHS9hRQFfql4Qj-lEDyWnNkBw&s=10",
+    "title": "Blockchain Based Secure Voting System",
+    "inventor": "Arjun Mehta",
+    "description": "A blockchain-based platform designed to improve transparency and security in digital voting.",
+    "reviewer": "Vikash Kumar",
+    "rating": 4,
+    "comments": "Strong security."
+  }
+]

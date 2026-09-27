@@ -1,0 +1,14 @@
+.review-container{
+    background-color: rgb(198, 207, 215);
+    padding: 40px 0;
+}
+.review-container .heading-container{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+ .review-container .icon{
+    color: rgb(248, 248, 15);
+}
+.col-md-3 p{
+    color: black;
+}
