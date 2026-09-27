@@ -1,8 +1,10 @@
-
+import Shortintro from '../components/Shortintro/Shortintro.jsx'
 
 const About = () => {
   return (
-    <div>About</div>
+    <>
+    <div><Shortintro /></div>
+    </>
   )
 }
 

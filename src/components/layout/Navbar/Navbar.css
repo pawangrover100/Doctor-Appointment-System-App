@@ -1,6 +1,7 @@
 .navbar-container{
     overflow: hidden;
     border-bottom: 1px solid #394a8d;
+    background-color: white;
 }
 .Topbar-container{
     display: flex;
