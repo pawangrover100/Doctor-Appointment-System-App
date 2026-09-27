@@ -22,12 +22,13 @@ const Navmanu = () => {
           </NavLink>
         </li>
         <li className="nav-item">
-          <NavLink className="nav-link" to="/about">
-            Doctor List
+          <NavLink className="nav-link" to="/doctors">
+            Doctors
           </NavLink>
         </li>
         <li className="nav-item">
-          <NavLink className="nav-link" to="/about">
+         
+          <NavLink className="nav-link" to="/gallery">
             Gallery
           </NavLink>
         </li>

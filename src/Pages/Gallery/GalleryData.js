@@ -1,0 +1,67 @@
+export const photos =[
+    {
+    src:"https://static.time.com/v3/assets/bltea6093859af6183b/blta8f3c5d3b3c06acb/698a42e8d075330980e6ea40/hospital-redesign-2023.jpg?branch=production&width=3840&quality=75&auto=webp&crop=3:2",
+    width:800,
+    height:600
+},
+    {
+    src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTflz1F57DT7U1jF_jE1QuH2vFZr0W-VZztF93FD3Agr_J1d61Kn6CRev8&s=10",
+    width:800,
+    height:600
+},
+    {
+    src:"https://cdn.britannica.com/12/130512-004-AD0A7CA4/campus-Riverside-Ottawa-The-Hospital-Ont.jpg",
+    width:800,
+    height:600
+},
+    {
+    src:"https://max-website20-images.s3.ap-south-1.amazonaws.com/Dwarka_thumbnail_9a1b5b272f.jpg",
+    width:800,
+    height:600
+},
+    {
+    src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbMwK2qf5CnQYWVqAWjnUcgmwhkUxD2vTKgpxbx2U7jyx7eQG-RYB1dWSu&s=10",
+    width:800,
+    height:600
+},
+    {
+    src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZCSPCzf0eTgMfX1UfwDNl06y-TZNwF_DYhdUrKP6ky0adtVsJPMiDKas&s=10",
+    width:800,
+    height:600
+},
+    {
+    src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfo4ANveRwNFU-53AquAdabMYFU4uN0aknUcgpAQ9s2tQyGa3OdGIzvBhj&s=10",
+    width:800,
+    height:600
+},
+    {
+    src:"https://i.ytimg.com/vi/CqBeokg47Qg/maxresdefault.jpg",
+    width:800,
+    height:600
+},
+    {
+    src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLy8h4hbLBpGQY2iJQkFcYCNs6I7kZ3uimKWJ4l3kMec-VCG9Fb2FYhqL5&s=10",
+    width:800,
+    height:600
+},
+    {
+    src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjbPuqzmd-ZiTeim07gH-h4uIFR7EsdNPDU877SJF3snM9O6NLKgir2PE&s=10",
+    width:800,
+    height:600
+},
+    {
+    src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZcyY7m0x2_OMdGtnSKzEa_iDMAmuOqVexwxQ-06eeRHWHCKw1UZxJYull&s=10",
+    width:800,
+    height:600
+},
+    {
+    src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5NKx_ntlJgB5kTkW-IgWcC8NTipv3hsCiKQQTSU_uhh-oXOgqvjK89Gaz&s=10",
+    width:800,
+    height:600
+},
+    {
+    src:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6fhGdy7LtOR_1mnft201QQEWXv4uB4ECSggxipLiDv1HdPbsgcHrHz_3v&s=10",
+    width:800,
+    height:600
+},
+]

@@ -15,8 +15,10 @@
     "react": "^19.2.6",
     "react-bootstrap": "^2.10.10",
     "react-dom": "^19.2.6",
+    "react-photo-album": "^3.1.0",
     "react-router": "^7.15.1",
-    "swiper": "^12.2.0"
+    "swiper": "^12.2.0",
+    "yet-another-react-lightbox": "^1.1.1"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",

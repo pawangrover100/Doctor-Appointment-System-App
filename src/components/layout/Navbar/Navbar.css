@@ -2,6 +2,7 @@
     overflow: hidden;
     border-bottom: 1px solid #394a8d;
     background-color: white;
+    z-index: 1;
 }
 .Topbar-container{
     display: flex;
