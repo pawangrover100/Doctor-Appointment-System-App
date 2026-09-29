@@ -10,6 +10,7 @@ import { Toaster } from "react-hot-toast";
 import Login from "./pages/Auth/Login.jsx";
 import AllDoctor from "./pages/Doctor/AllDoctor.jsx";
 import DoctorAppointment from "./pages/Doctor/DoctorAppointment.jsx";
+import User from "./pages/User/User.jsx";
 
 const App = () => {
   return (
@@ -25,6 +26,7 @@ const App = () => {
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/register" element={<Register />} />
         <Route path="/login" element={<Login />} />
+        <Route path="/user/:id" element={<User />} />
       </Routes>
       <Footer />
     </div>
