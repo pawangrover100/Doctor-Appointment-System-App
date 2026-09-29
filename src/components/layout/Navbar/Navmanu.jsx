@@ -22,7 +22,7 @@ const Navmanu = () => {
           </NavLink>
         </li>
         <li className="nav-item">
-          <NavLink className="nav-link" to="/doctors">
+          <NavLink className="nav-link" to="/alldoctor">
             Doctors
           </NavLink>
         </li>
@@ -36,9 +36,7 @@ const Navmanu = () => {
           <NavLink className="nav-link" to="/contact">
             Contact
           </NavLink>
-          <NavLink className="nav-link" to="/register">
-            Register
-          </NavLink>
+          
         </li>
        
       </ul>

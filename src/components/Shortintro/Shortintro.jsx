@@ -1,5 +1,5 @@
 import hos from "../../assets/image/hos.jpg";
-import("./Shortintro.css");
+import "./Shortintro.css";
 const Shortintro = () => {
   return (
     <>

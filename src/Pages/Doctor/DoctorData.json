@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Rajesh Sharma",
+    "specialist": "Cardiologist",
+    "pic": "https://randomuser.me/api/portraits/men/32.jpg",
+    "degree": "MBBS, MD Cardiology",
+    "about": "Experienced cardiologist specializing in heart disease prevention, diagnosis, and treatment.",
+    "experience": "12 Years",
+    "available": "Mon - Sat, 10:00 AM - 2:00 PM",
+    "fee": "₹800",
+    "icon": "fa-solid fa-heart-pulse"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Priya Verma",
+    "specialist": "Dermatologist",
+    "pic": "https://randomuser.me/api/portraits/women/44.jpg",
+    "degree": "MBBS, MD Dermatology",
+    "about": "Specialist in skin, hair, and nail disorders with a focus on cosmetic dermatology.",
+    "experience": "9 Years",
+    "available": "Mon - Fri, 11:00 AM - 3:00 PM",
+    "fee": "₹600",
+    "icon": "fa-solid fa-hand-dots"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Amit Kapoor",
+    "specialist": "Neurologist",
+    "pic": "https://randomuser.me/api/portraits/men/45.jpg",
+    "degree": "MBBS, DM Neurology",
+    "about": "Neurologist experienced in treating headaches, epilepsy, stroke, and nervous system disorders.",
+    "experience": "15 Years",
+    "available": "Tue - Sat, 9:00 AM - 1:00 PM",
+    "fee": "₹1000",
+    "icon": "fa-solid fa-brain"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Neha Gupta",
+    "specialist": "Pediatrician",
+    "pic": "https://randomuser.me/api/portraits/women/65.jpg",
+    "degree": "MBBS, MD Pediatrics",
+    "about": "Dedicated pediatrician providing medical care, vaccination, and health guidance for children.",
+    "experience": "8 Years",
+    "available": "Mon - Sat, 10:00 AM - 4:00 PM",
+    "fee": "₹500",
+    "icon": "fa-solid fa-baby"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Vikram Singh",
+    "specialist": "Orthopedic",
+    "pic": "https://randomuser.me/api/portraits/men/51.jpg",
+    "degree": "MBBS, MS Orthopedics",
+    "about": "Orthopedic specialist focused on bone, joint, muscle, and sports-related injuries.",
+    "experience": "14 Years",
+    "available": "Mon - Fri, 9:00 AM - 1:00 PM",
+    "fee": "₹700",
+    "icon": "fa-solid fa-bone"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Anjali Mehta",
+    "specialist": "Gynecologist",
+    "pic": "https://randomuser.me/api/portraits/women/33.jpg",
+    "degree": "MBBS, MD Gynecology",
+    "about": "Gynecologist specializing in women's health, pregnancy care, and reproductive health.",
+    "experience": "11 Years",
+    "available": "Mon - Sat, 12:00 PM - 5:00 PM",
+    "fee": "₹800",
+    "icon": "fa-solid fa-person-pregnant"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Arjun Malhotra",
+    "specialist": "General Physician",
+    "pic": "https://randomuser.me/api/portraits/men/67.jpg",
+    "degree": "MBBS, MD Medicine",
+    "about": "General physician providing diagnosis and treatment for common and chronic medical conditions.",
+    "experience": "10 Years",
+    "available": "Mon - Sat, 8:00 AM - 12:00 PM",
+    "fee": "₹400",
+    "icon": "fa-solid fa-user-doctor"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Sneha Agarwal",
+    "specialist": "Dentist",
+    "pic": "https://randomuser.me/api/portraits/women/50.jpg",
+    "degree": "BDS, MDS",
+    "about": "Dental specialist providing preventive, restorative, and cosmetic dental treatments.",
+    "experience": "7 Years",
+    "available": "Mon - Fri, 10:00 AM - 2:00 PM",
+    "fee": "₹500",
+    "icon": "fa-solid fa-tooth"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Rahul Bansal",
+    "specialist": "Gastroenterologist",
+    "pic": "https://randomuser.me/api/portraits/men/76.jpg",
+    "degree": "MBBS, MD, DM Gastroenterology",
+    "about": "Specialist in digestive system disorders, liver diseases, and gastrointestinal conditions.",
+    "experience": "13 Years",
+    "available": "Tue - Sat, 11:00 AM - 3:00 PM",
+    "fee": "₹900",
+    "icon": "fa-solid fa-stomach"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Kavita Joshi",
+    "specialist": "ENT Specialist",
+    "pic": "https://randomuser.me/api/portraits/women/68.jpg",
+    "degree": "MBBS, MS ENT",
+    "about": "ENT specialist treating ear, nose, throat, sinus, and hearing-related conditions.",
+    "experience": "9 Years",
+    "available": "Mon - Sat, 2:00 PM - 6:00 PM",
+    "fee": "₹600",
+    "icon": "fa-solid fa-ear-listen"
+  }
+]
